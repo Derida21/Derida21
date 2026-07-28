@@ -16,8 +16,8 @@ I'm **Derida Elfraim Falahian**, a Python Developer passionate about building wo
 
 ## 📫 Connect with Me
 
-* LinkedIn: *(Add your LinkedIn URL)*
-* Email: *(Add your email address)*
+* LinkedIn: [Connect on Linkdln](https://www.linkedin.com/in/derida-falahian/)
+* Email: [derimhian@gmal.com](derimhian@gmail.com)
 
 ## 🛠 Tech Stack
 
