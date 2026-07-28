@@ -2,7 +2,11 @@
 
 👋 Hello and welcome!
 
-I'm **Derida Elfraim Falahian**, a Python Developer passionate about building workflow automations, AI-powered applications, and scalable data solutions. My focus is on eliminating repetitive processes by combining Python, APIs, LLMs, and workflow orchestration tools to create reliable, production-ready systems.
+I'm **Derida Elfraim Falahian**, Data Engineer & Automation with hands-on experience in Python, machine learning, and LLM
+integration, combined with a frontend development background using React.js. Experienced in designing
+workflow automation systems using n8n, database, integrating REST APIs, webhooks, and JSON-based data
+pipelines. Known for a builder mindset, problem-solving skills, and a proactive approach to connecting AI
+models with real-world business workflows.
 
 ## 🚀 About Me
 
@@ -34,33 +38,6 @@ I'm **Derida Elfraim Falahian**, a Python Developer passionate about building wo
 * AI Agents
 * Prompt Engineering
 * Workflow Automation
-
-**Backend & APIs**
-
-* FastAPI
-* REST API
-* Webhooks
-* JSON
-
-**Data Engineering**
-
-* PostgreSQL
-* SQL
-* ETL Pipelines
-* Data Processing
-
-**Frontend**
-
-* React.js
-* HTML
-* CSS
-
-**Tools**
-
-* Docker
-* Git
-* GitHub
-* Streamlit
 
 ## 📌 Featured Projects
 
