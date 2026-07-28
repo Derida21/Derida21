@@ -1,4 +1,4 @@
-# Derida Elfraim Falahian - Python Developer | Automation & AI Integration Engineer
+# Derida Elfraim Falahian - Data Engineer | Automation (n8n)
 
 👋 Hello and welcome!
 
